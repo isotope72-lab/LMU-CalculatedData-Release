@@ -1,5 +1,11 @@
 # Tweaks On Track Changelog
 
+## 1.0.7 - 2026-03-25
+
+ - Change to the design of the update checker buttons (animated)
+ - Minor changes to the UI page design
+ - Collapse update text if no update available 
+
 ## 1.0.6 - 2026-03-21
 
  - Ui page changes
